@@ -1,4 +1,4 @@
-# take-a-nap
+# take-a-nap [![Build Status](https://travis-ci.org/Urucas/take-a-nap.svg?branch=master)](https://travis-ci.org/Urucas/take-a-nap)
 Just another javascript implementation of ```sleep``` to use with await
 
 # Install
