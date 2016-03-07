@@ -1,5 +1,5 @@
 import chai from 'chai'
-import { sleep, nap } from "../dist/"
+import { sleep, nap } from "../lib/"
 
 chai.should()
 const expect = chai.expect
