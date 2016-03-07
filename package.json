@@ -1,7 +1,7 @@
 {
   "name": "take-a-nap",
-  "version": "0.0.1",
-  "description": "es6 sleep",
+  "version": "0.0.2",
+  "description": "Just another javascript implementation of sleep to use with await",
   "main": "./dist/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha tests/* --compilers js:babel-core/register -t 15s",
