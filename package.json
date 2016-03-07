@@ -1,6 +1,6 @@
 {
   "name": "take-a-nap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Just another javascript implementation of sleep to use with await",
   "main": "./dist/index.js",
   "scripts": {
@@ -33,7 +33,6 @@
     "babel-plugin-transform-async-to-generator": "^6.5.0"
   },
   "devDependencies": {
-   
     "chai": "^3.5.0",
     "husky": "^0.11.3",
     "mocha": "^2.4.5"
