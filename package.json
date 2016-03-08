@@ -1,6 +1,6 @@
 {
   "name": "take-a-nap",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Just another javascript implementation of sleep to use with await",
   "main": "./dist/index.js",
   "scripts": {
